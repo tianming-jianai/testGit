@@ -5,7 +5,7 @@
 /.classpath
 /.springBeans
 # Maven
-target/
+/target/
 release.properties
 
 # Eclipse
